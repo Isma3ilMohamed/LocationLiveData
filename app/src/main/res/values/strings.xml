@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LocationLiveData</string>
+    <string name="location_not_available">Location not available</string>
+    <string name="invalid_latLong">Invalid Lat and Lng</string>
+    <string name="address_not_found">Address not found</string>
+    <string name="geocode_invalid_element">Geocode invalid element</string>
+</resources>
